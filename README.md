@@ -1,8 +1,7 @@
   ![logo](https://github.com/samuxoa/samuxoa/blob/main/GithubBanner.png)
 <h1 align="center">Hello!!   It's ME SAMIA RAHMAN</h1>
 <h3 align="center">Sust Software Engineering | Undergraduate student | IT and Robotics |</h3>
-<img align="right" alt="coding" width="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l" />
-">
+
 
 -  I’m currently working on **RETRO(Game Project)**
 
