@@ -4,15 +4,15 @@
 <img align="right" alt="coding" width="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l" />
 ">
 
-- 🔭 I’m currently working on **RETRO(Game Project)**
+-  I’m currently working on **RETRO(Game Project)**
 
-- 🌱 I’m currently learning **sensor values ratings with arduino IDE,LFR basic**
+-  I’m currently learning **sensor values ratings with arduino IDE,LFR basic**
 
-- 👨‍💻 All of my projects are available at [https://github.com/samuxoa](https://github.com/samuxoa)
+-  All of my projects are available at [https://github.com/samuxoa](https://github.com/samuxoa)
 
   
 
-- ⚡ Fun fact **I am funny XD**
+-  Fun fact **I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
